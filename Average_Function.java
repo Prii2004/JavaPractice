@@ -1,4 +1,4 @@
-//Write a Java method to compute the averageof three numbers.
+//Write a Java method to compute the average of three numbers.
 
 import java.util.*;
 public class Average_Function {
